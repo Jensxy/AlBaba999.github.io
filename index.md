@@ -14,7 +14,7 @@ services:
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
+  heading: FinTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Düsseldorf 2018, Dreischeibenhaus
 textline: |-
