@@ -1,8 +1,8 @@
 ---
 title: d-fine Hackathon
-banner_image: "/uploads/2018/06/22/maxresdefault.jpg"
+banner_image: "/uploads/2018/06/22/35_HPP_Dreischeibenhaus.jpg"
 layout: landing-page
-heading: d-fine DataScience Bowl
+heading: d-fine Hackathon 2018, Dreischeibenhaus Düsseldorff
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
