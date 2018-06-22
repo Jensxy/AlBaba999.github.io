@@ -22,7 +22,7 @@ textline: |-
 
   Nimm die Challenge an und entwicklte eine einzigartige Data Science Lösung und erkämpfe Die den Teamsieg.
 hero_button:
-  text: Learn more
+  text: Participate
   href: "/about"
 show_news: true
 show_staff: false
