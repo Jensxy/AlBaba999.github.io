@@ -10,4 +10,4 @@ email: christoph.bennemann@d-fine.de
 linkedin: ''
 layout: ''
 ---
-Cluster Technology-Head / Cluster Technology SI-Head
+Head of Cluster Technology, Head of Cluster Technology SI
