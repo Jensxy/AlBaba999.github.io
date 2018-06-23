@@ -9,8 +9,9 @@ menu:
   navigation:
     name: Teilnehmen
     identifier: _contact
+    url: "/teilnehmen/"
     weight: 2
 ---
 ## Teilnehmer werden
 
-Schicke eine aussagekräftige Bewerbung per Mail an hackathon@d-fine.de
+Schicke eine aussagekräftige Bewerbung per Mail an <a href="mailto:hackathon@d-fine.de">hackathon@d-fine.de</a>
