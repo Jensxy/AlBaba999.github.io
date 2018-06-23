@@ -32,7 +32,7 @@ textline: |-
 hero_button:
   text: Teilnehmen
   href: "/teilnehmen"
-show_news: true
+show_news: false
 show_staff: true
 menu:
   navigation:
