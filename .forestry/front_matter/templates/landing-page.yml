@@ -6,23 +6,24 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: d-fine hackathon
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: d-fine next
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Innovationen in der Finanzbranche
 - type: file
   name: banner_image
   label: Hero Image
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2018/06/23/jQeGb-OR_400x400.jpg"
 - type: field_group
   name: hero_button
   label: Hero Button
