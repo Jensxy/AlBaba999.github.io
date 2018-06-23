@@ -43,7 +43,7 @@ fields:
     schema:
       format: markdown
 - name: services
-  label: Services
+  label: Themen
   type: field_group_list
   fields:
   - name: heading
