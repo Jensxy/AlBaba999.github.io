@@ -1,6 +1,6 @@
 ---
 title: d-fine Hackathon
-banner_image: "/uploads/2018/06/23/vision.jpg"
+banner_image: "/uploads/2018/06/23/02_HPP_DSH_2014_aerial_photo-Ralph-Richter-2"
 layout: landing-page
 heading: d-fine Hackathon 19.-21. Oktober 2018
 partners:
@@ -31,7 +31,7 @@ textline: |-
   Du liebst es Daten zu analysieren und daraus innovatione Ideen zu entwicklen? Du hast Programmiererfahrung? Nimm die Challenge an und entwickle im Team eine einzigartige Data Science Lösung. Dich erwartet ein spannendes Wochenede mit motivierten IT-Talenten in exklusiver Atmosphere.
 hero_button:
   text: Teilnehmen
-  href: "/about"
+  href: "/teilnehmen"
 show_news: true
 show_staff: true
 menu:
