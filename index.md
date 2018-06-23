@@ -1,6 +1,6 @@
 ---
 title: d-fine Hackathon
-banner_image: "/uploads/2018/06/23/02_HPP_DSH_2014_aerial_photo-Ralph-Richter-2"
+banner_image: "/uploads/2018/06/23/Düsseldorf-Panorama.jpg"
 layout: landing-page
 heading: d-fine Hackathon 19.-21. Oktober 2018
 partners:
