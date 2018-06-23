@@ -9,7 +9,6 @@ menu:
   navigation:
     name: Teilnehmen
     identifier: _contact
-    url: "/contact/"
     weight: 2
 ---
 ## Teilnehmer werden
