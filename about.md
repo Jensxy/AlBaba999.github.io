@@ -15,11 +15,6 @@ menu:
     identifier: _about
     url: "/about/"
     weight: 1
-  navigation:
-    name: About
-    identifier: _about
-    url: "/about/"
-    weight: 2
 published: false
 ---
 
