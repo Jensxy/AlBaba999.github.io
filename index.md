@@ -1,6 +1,6 @@
 ---
 title: d-fine Hackathon
-banner_image: "/uploads/2018/06/22/35_HPP_Dreischeibenhaus.jpg"
+banner_image: "/uploads/2018/06/23/dsh-photo-2016-01-22-10-54-57-180000.jpg"
 layout: landing-page
 heading: d-fine Hackathon 2018, Dreischeibenhaus Düsseldorff
 partners:
@@ -22,7 +22,7 @@ textline: |-
 
   Nimm die Challenge an und entwicklte eine einzigartige Data Science Lösung und erkämpfe Die den Teamsieg.
 hero_button:
-  text: Participate
+  text: Teilnahme
   href: "/about"
 show_news: true
 show_staff: false
