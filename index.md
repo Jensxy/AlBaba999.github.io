@@ -19,6 +19,10 @@ services:
     Zukunft.
   heading: Mobility and Transport
   icon: "/uploads/2018/06/23/mobility.png"
+- heading: Healthcare
+  description: Kombinieren fortschittliche Statistik um im Gesunheitswesen Prozesse
+    zu optimieren.
+  icon: "/uploads/2018/06/23/healthcare.png"
 sub_heading: Dreischeibenhaus, Düsseldorf
 textline: |-
   d-fine next Hackathon
