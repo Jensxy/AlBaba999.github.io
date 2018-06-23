@@ -31,7 +31,7 @@ textline: |-
   Du liebst es Daten zu analysieren und daraus innovatione Ideen zu entwicklen? Du hast Programmiererfahrung? Nimm die Challenge an und entwickle im Team eine einzigartige Data Science Lösung. Dich erwartet ein spannendes Wochenede mit motivierten IT-Talenten in exklusiver Atmosphere.
 hero_button:
   text: Teilnehmen
-  href: "/teilnehmen"
+  href: "/contact"
 show_news: true
 show_staff: true
 menu:
