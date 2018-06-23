@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: d-fine Hackathon
+short_title: d-fine Hackathon
+description: d-fine Hackathon Site
 baseurl:
 permalink: "/:path/"
 defaults:
