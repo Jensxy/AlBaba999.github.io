@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Customer Prediction
+  description: Hilf Unternehmen ihre Daten zu nutzen um ihre Kunden besser zu verstehen.
+  icon: "/uploads/2018/06/23/shopping.png"
 - description: Kombiniere Finanzthemen mit deinem IT Know How und schaffe Lösungen
     die Banken ihren Kunden gut tun.
   heading: FinTech und Banking
