@@ -10,4 +10,4 @@ email: todor.dobrikov@d-fine.de
 linkedin: ''
 layout: ''
 ---
-Todor Dobrikov ist Experte für Machine Learning Projekt im Bankenumfeld.
+Head of Competence Center Machine Learning, Head of Cluster-Unit Credit Risk 
