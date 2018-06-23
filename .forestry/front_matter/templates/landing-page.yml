@@ -70,8 +70,7 @@ fields:
 - type: image_gallery
   name: partners
   label: Partner Logos
-  default:
-  - "/uploads/2018/06/23/Logo_AcceleratorFrankfurt.png"
+  default: []
 - type: boolean
   name: show_staff
   label: Show Staff?
