@@ -1,6 +1,6 @@
 ---
 title: d-fine Hackathon
-banner_image: "/uploads/2018/06/23/dsh-photo-2016-01-22-10-54-57-180000.jpg"
+banner_image: "/uploads/2018/06/23/vision.jpg"
 layout: landing-page
 heading: d-fine Hackathon 19.-21. Oktober 2018
 partners:
