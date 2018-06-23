@@ -10,4 +10,4 @@ email: todor.dobrikov@d-fine.de
 linkedin: ''
 layout: ''
 ---
-Head of Competence Center Machine Learning, Head of Cluster-Unit Credit Risk 
+Head of Competence Center Machine Learning
