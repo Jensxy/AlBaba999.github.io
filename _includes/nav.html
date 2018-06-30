@@ -11,13 +11,10 @@
       </h1>
       <nav class="main-nav">
         <ul class="navigation">
-          {% for link in site.menus.navigation %}
+          {% for link in site.data.navigation %}
           <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
             <a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>
                   {{ link.title }}
-                  {% if link.children %}
-                    <i class='icon-chevron-down'></i>
-                  {% endif %}
                 </a>
           </li>
           {% endfor %}
@@ -25,3 +22,4 @@
     </nav>
   </div>
 </header>
+
