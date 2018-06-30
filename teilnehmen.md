@@ -1,7 +1,7 @@
 ---
 title: Teilnehmen
 date: 2018-06-22 22:00:00 +0000
-banner_image: "/uploads/2018/06/23/Düsseldorf-Panorama.jpg"
+banner_image: "/uploads/2018/06/23/Dreischeibenhaus_Terrasse.jpg"
 heading: Jetzt Teilnehmer werden
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
