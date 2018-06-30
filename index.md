@@ -45,9 +45,9 @@ services:
       optimieren.
     icon: /uploads/2018/06/23/healthcare.png
 sub_heading: 'Dreischeibenhaus, Düsseldorf'
-textline1: >-
+textline_head: >-
   d-fine next Hackathon
-textline2: >-
+textline: >-
   Du liebst es Daten zu analysieren und daraus innovatione Ideen zu entwicklen?
   Du hast Programmiererfahrung? Nimm die Challenge an und entwickle im Team eine
   einzigartige Data Science Lösung. Dich erwartet ein spannendes Wochenede mit

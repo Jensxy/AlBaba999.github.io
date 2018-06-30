@@ -22,6 +22,7 @@ GEM
     faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.25)
+    ffi (1.9.25-x64-mingw32)
     ffi (1.9.25-x86-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -209,6 +210,8 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.8.3)
       mini_portile2 (~> 2.3.0)
+    nokogiri (1.8.3-x64-mingw32)
+      mini_portile2 (~> 2.3.0)
     nokogiri (1.8.3-x86-mingw32)
       mini_portile2 (~> 2.3.0)
     nuggets (1.5.0)
@@ -247,11 +250,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.6.0)
   jekyll-archives
   jekyll-feed (~> 0.6)
   jekyll-menus
