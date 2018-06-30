@@ -46,7 +46,7 @@ services:
     icon: /uploads/2018/06/23/healthcare.png
 sub_heading: 'Dreischeibenhaus, Düsseldorf'
 textline_head: >-
-  d-fine next Hackathon
+  d-fine next Hackathon Test
 textline: >-
   Du liebst es Daten zu analysieren und daraus innovatione Ideen zu entwicklen?
   Du hast Programmiererfahrung? Nimm die Challenge an und entwickle im Team eine
