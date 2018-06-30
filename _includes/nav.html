@@ -10,41 +10,28 @@
         <a href="{{ "/" | absolute_url }}">{{ site.name }}</a>
       </h1>
       <nav class="main-nav">
-        <ul class="navigation">
-          {% for link in site.menus.navigation %}
-          <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
-            {% if link.children %}
-            <ul class="first-level">
-              {% for child in link.children %}
-              <li>
-                {% if child.children %}
-                <ul class="second-level">
-                  {% for child in child.children %}
-                  <li>
-                    <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
-                  </li>
-                  {% endfor %}
-                </ul>
-                {% endif %}
-                <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %}>
-                  {{ child.title }}
-                  {% if child.childen %}
-                    <i class='icon-right-dir-2'></i>
-                  {% endif %}
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-            <a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>
-                  {{ link.title }}
-                  {% if link.childen %}
-                    <i class='icon-chevron-down'></i>
-                  {% endif %}
-                </a>
-          </li>
+  <ul class="navigation">
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
           {% endfor %}
-        </ul>
-    </nav>
+          </ul>
+        </li>
+      {% elsif nav.title == page.title %}
+         <li class="active">
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+         </li>
+      {% else %} 
+        <li>
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav> 
   </div>
 </header>
